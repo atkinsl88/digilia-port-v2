@@ -1,15 +1,13 @@
 import React from 'react'
 
-import Navbar from '../common/Navbar'
-import Intro from './modules/Intro'
+import Hero from '../homepage/modules/Hero'
 
 
 const Home = () => {
 
   return (
     <section>
-      <Navbar />
-      <Intro />
+      <Hero />
     </section>
   )
 

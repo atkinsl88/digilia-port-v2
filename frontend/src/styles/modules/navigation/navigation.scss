@@ -1,0 +1,56 @@
+.navbar {
+  height: 120px;
+}
+
+.navbar img {
+  height: 90px;
+  margin-top: 10px;
+  margin-left: 100px
+}
+
+.navbar-burger {
+  margin-right: 100px;
+}
+
+.navbar-end {
+  padding-right: 100px;
+}
+
+.navbar-item {
+  font-family: 'Nunito', sans-serif;
+  font-size: 12pt;
+  margin: 0px;
+  padding: 10px;
+}
+
+.navbar-item.has-dropdown {
+  padding: 0px;
+}
+
+a.navbar-item:focus {
+  color: #000000;
+  background-color: #FFFFFF;
+}
+
+a.navbar-item:hover {
+  color: #000000;
+  background-color: #FFFFFF;
+}
+
+/* Tablet */
+
+@media only screen and (max-width: 1024px) {
+  .navbar-burger {
+    margin-top: 35px;
+    margin-right: 40px;
+  }
+  .navbar-menu {
+    margin-top: 14px;
+    margin-right: 40px;
+  }
+  .navbar img {
+    margin-left: 40px
+  }
+}
+
+/* Mobile */
