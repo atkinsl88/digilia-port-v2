@@ -1,0 +1,13 @@
+<h1>Works Index Page</h1>
+
+{% for work in works %}
+  <div>
+    <h2>{{ work.name }}</h2>
+    <p>{{ work.year }}</p>
+    <p>{{ work.be }}</p>
+    <p>{{ work.fe }}</p>
+    <p>{{ work.other }}</p>
+    <p>{{ work.link }}</p>
+    <p>{{ work.git }}</p>
+  </div>
+{% endfor %}
