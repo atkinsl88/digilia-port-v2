@@ -1,0 +1,46 @@
+.table-year {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.table-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px #E4E6E8 solid;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.table-headings {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border-bottom: 1px #E4E6E8 solid;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.table-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border-bottom: 1px #E4E6E8 solid;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.table-item-lng {
+  width: 120px;
+}
+
+.table-item-sml {
+  width: 60px;
+}

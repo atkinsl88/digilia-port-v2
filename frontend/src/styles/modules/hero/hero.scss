@@ -1,0 +1,32 @@
+.hero-container {
+  display: flex;
+  height: 420px;
+}
+
+.hero-container-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 50%;
+  background-color: #3D414D;
+}
+
+.hero-container-right {
+  min-width: 50%;
+  background-color: #212830;
+}
+
+.hero-container-right img {
+  height: 100%;
+  width: 100%;
+}
+
+.hero-heading {
+  padding-left: 100px;
+  margin-bottom: 10px;
+}
+
+.hero-text {
+  padding-left: 100px;
+  padding-right: 100px;
+}
