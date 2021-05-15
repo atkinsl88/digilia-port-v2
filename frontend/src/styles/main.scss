@@ -1,3 +1,6 @@
+/* Import - Bulma */
+@import '~bulma/bulma.sass';
+
 /* Misc */
 * {
   margin: 0px;
@@ -8,10 +11,14 @@
 
 /* Import - Navigation & Footer */
 @import './modules/navigation/navigation.scss';
+@import './modules/footer/footer.scss';
 
 /* Import - Hero */
 @import './modules/hero/hero.scss';
 
-/* Import - Intro */
+/* Import - Modules */
 @import './modules/body/intro.scss';
 @import './modules/body/table.scss';
+@import './modules/body/body.scss';
+@import './modules/body/content.scss';
+@import './modules/body/info.scss';

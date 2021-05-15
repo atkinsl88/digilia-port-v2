@@ -1,12 +1,18 @@
-.navbar-container {
+.navbar {
   display: flex;
   justify-content: flex-end;
   align-items: center;
   height: 40px;
   background-color: #212830;
+  padding-right: 100px;
 }
 
 .navbar-item {
-  margin-right: 100px;
+  display: flex;
+  justify-content: row;
   color: #FFFFFF;
+  font-family: 'Raleway', sans-serif;
+  font-size: 10pt;
+  line-height: 25px;
+  letter-spacing: 0.38px;
 }

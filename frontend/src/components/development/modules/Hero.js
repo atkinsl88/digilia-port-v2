@@ -7,7 +7,7 @@ const Hero = () => (
     <div className="hero-container">
       <div className="hero-container-left">
         <div className="hero-heading">
-          <h1>Welcome</h1>
+          <h1>Development</h1>
         </div>
         <div className="hero-text">
           <h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu tincidunt augue, id mollis nibh. Praesent nunc nisi, lobortis eget augue a, aliquam volutpat magna. Phasellus ac tristique ipsum, eget faucibus metus. Pellentesque ut lorem nec nunc porttitor dictum. Maecenas vitae purus augue.</h6>

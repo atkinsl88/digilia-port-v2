@@ -1,0 +1,35 @@
+.info-header {
+  text-align: center;
+  margin: 40px 100px;
+  border-bottom: 1px #E4E6E8 solid;
+}
+
+.info-container {
+  margin: 40px 100px;
+}
+
+.info-content {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.border-top {
+  padding-top: 40px;
+  border-top: 1px #E4E6E8 solid;
+}
+
+.indent {
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.info-content-text {
+  width: 80%;
+}
+
+.info-content-image {
+  display: flex;
+  justify-content: flex-end;
+  width: 20%;
+}

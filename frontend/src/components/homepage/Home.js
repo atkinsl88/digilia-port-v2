@@ -1,8 +1,7 @@
 import React from 'react'
 
 import Hero from '../homepage/modules/Hero'
-import Intro from '../homepage/modules/Intro'
-import Table from '../homepage/modules/Table'
+import Content from '../homepage/modules/Content'
 
 
 const Home = () => {
@@ -10,8 +9,7 @@ const Home = () => {
   return (
     <section>
       <Hero />
-      <Intro />
-      <Table />
+      <Content />
     </section>
   )
 
