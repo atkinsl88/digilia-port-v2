@@ -33,3 +33,18 @@
   justify-content: flex-end;
   width: 20%;
 }
+
+@media only screen and (max-width: 1024px) {
+  .info-header {
+    margin: 40px 40px;
+  }
+  .info-container {
+    margin: 40px 40px;
+  }
+  .info-content-text {
+    width: auto;
+  }
+  .info-content-image {
+    display: none;
+  }
+}

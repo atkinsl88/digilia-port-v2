@@ -1,7 +1,10 @@
 .intro-container {
   display: flex;
   flex-direction: column;
-  margin: 60px 100px;
+  margin-top: 60px;
+  margin-bottom: 0px;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
 .intro-heading {
@@ -10,4 +13,11 @@
 
 .intro-para {
   margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .intro-container {
+    margin-right: 40px;
+    margin-left: 40px;
+  }
 }

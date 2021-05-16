@@ -25,8 +25,6 @@ const Info = () => (
           <h2>Senior Project Success Manager, Investis Digital</h2>
           <p>October 2020 - Present</p>
           <p>Provided end-to-end ‘hands-on’ project management of both small and large-scale projects throughout their life cycle. From initial scoping phase, through planning, estimating, budgeting, scheduling, design and development of full implementation.</p>
-          <p><i>It’s rare that you come across a project manager as personable and as technically competent as Liam. It was a pleasure of working with him on a recent website project, his insight, work ethic and innovative approach were crucial to the overall successful delivery of the project. Liam was always available and his meticulous approach to detail and willingness to go the extra mile really impressed me.
-Hopefully I get the chance to work with Liam again in the future, I couldn’t recommend him highly enough.</i><b><br />Olly West, Project Directo, SIG plc</b></p>
         </div>
         <div className="info-content-image">
           <img src={image1} alt="logo" />
@@ -52,7 +50,6 @@ Hopefully I get the chance to work with Liam again in the future, I couldn’t r
             <h2>Project Consultant, Imagination</h2>
             <p>Jan 2020 – Mar 2020</p>
             <p>Short-term contract to scope the requirements for an internal programme of work of approx. 15 projects. Preparing PID documents, timing plans and estimates for each project. Working directly into the Global Chief Technology Officer.</p>
-            <p>Implemented crisis management plan during Covid-19, onboarding 150+ employees onto Slack.</p>
           </div>
           <div className="info-content-image">
             <img src={image3} alt="logo" />
@@ -63,8 +60,6 @@ Hopefully I get the chance to work with Liam again in the future, I couldn’t r
             <h2>Senior Project Success Manager, Investis Digital</h2>
             <p>May 2018 – Jan 2020</p>
             <p>Provided end-to-end ‘hands-on’ project management of both small and large-scale projects throughout their life cycle. From initial scoping phase, through planning, estimating, budgeting, scheduling, design and development of full implementation.</p>
-            <p>Oversaw the day-to-day management and smooth running of key Investis Digital accounts, ensuring the client received the highest individual attention. Key accounts included (FTSE 100): Prudential plc, Rolls-Royce Holdings plc and ITV plc. (FTSE 250): Savills plc, CLS Holdings and SIG plc.</p>
-            <p><i>Liam was instrumental in the production of our corporate website, able to find practical solutions to both technical and design based issues, resulting in an on-time and on-budget first class product. Engaging and hardworking, knowledgeable and insightful; and always solutions focused.</i><b><br />David Fuller, Company Secretary & Head of Group HR, CLS Holdings</b></p>
           </div>
           <div className="info-content-image">
             <img src={image1} alt="logo" />
@@ -96,8 +91,6 @@ Hopefully I get the chance to work with Liam again in the future, I couldn’t r
         <div className="info-content-text">
           <h2>Project Manager, Education First</h2>
           <p>Apr 2015 - Oct 2017</p>
-          <p>Responsible for a team of three with direct reports.</p>
-          <p>Confidently working alongside the technical team to specify and document new functional solutions for the marketing and tech functions of the business.</p>
           <p>Oversaw the development of the EF English Live products and increasing the volume of work when appropriate.</p>
         </div>
         <div className="info-content-image">
@@ -161,10 +154,7 @@ Hopefully I get the chance to work with Liam again in the future, I couldn’t r
         <div className="info-content-text">
           <h2>Software Engineering Immersive, General Assembly</h2>
           <p>Jun 2020 - Aug 2020</p>
-          <p>QCreated front-end applications with React and Angular, developed and deployed full-stack applications in Python with Django, Express, Node.js and REST. Learned how to model and safely store data in SQL and NoSQL. Consumed and integrated third party API’s in applications.</p>
-          <p>Project 01 - Vanilla JavaScript ‘Frogger’ based game with CSS and HTML.</p>
-          <p>Project 02 - Hackathon project using ReactJS, SCSS and HTML using two third party API’s.</p>
-          <p>Project 03 - Created a full stack web application using ReactJS along with Node.js, NoSQL (MongoDB), XML/SCSS.</p>
+          <p>Created front-end applications with React and Angular, developed and deployed full-stack applications in Python with Django, Express, Node.js and REST. Learned how to model and safely store data in SQL and NoSQL. Consumed and integrated third party API’s in applications.</p>
         </div>
         <div className="info-content-image">
           <img src={image11} alt="logo" />

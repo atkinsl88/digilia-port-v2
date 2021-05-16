@@ -12,7 +12,7 @@ const Table = () => (
         <div className="table-item-xlng">
           <p><b>Project Name</b></p>
         </div>
-        <div className="table-item-xlng">
+        <div className="table-item-xlng mob-hidden">
           <p><b>Description</b></p>
         </div>
         <div className="table-item-xlng">
@@ -21,10 +21,10 @@ const Table = () => (
       </div>
       <div className="table-row">
         <div className="table-item-xlng">
-          <p>Park House Care - Site Redesign</p>
+          <p>Park House Care - Redesign</p>
         </div>
-        <div className="table-item-xlng">
-          <p>Python (Django)</p>
+        <div className="table-item-xlng mob-hidden">
+          <p>Responsive website design.</p>
         </div>
         <div className="table-item-xlng">
           <Link to="https://invis.io/ZHYOH7XAJKU" target="_blank">Invision Board</Link>

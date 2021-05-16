@@ -5,13 +5,13 @@ const Download = () => (
 
     <div className="download-container">
       <div className="download-heading">
-        <h2>Download</h2>
+        <h2>Curriculum Vitae</h2>
       </div>
       <div className="download-text">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu tincidunt augue, id mollis nibh. Praesent nunc nisi, lobortis eget augue a, aliquam volutpat magna.</p>
+        <p>Download a copy of my CV.</p>
       </div>
       <div className="download-button">
-        <a href="/development">Download</a>
+        <a href="https://drive.google.com/file/d/1pEZYY4jBR3WVIJzIlS9TiqFFCsBb6LmB/view" target="_blank" rel="noreferrer">Download</a>
       </div>
     </div>
 

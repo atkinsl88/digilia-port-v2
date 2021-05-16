@@ -11,6 +11,7 @@
   border: 1px #E4E6E8 solid;
   margin-left: 100px;
   margin-right: 100px;
+  margin-bottom: 60px;
   padding-top: 20px;
   padding-bottom: 40px;
 }
@@ -47,4 +48,23 @@
 
 .table-item-sml {
   width: 60px;
+}
+
+.table-item-sml img {
+  height: 18px;
+  width: 18px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .table-year {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .table-container {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .mob-hidden {
+    display: none;
+  }
 }

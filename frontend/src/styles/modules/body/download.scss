@@ -9,10 +9,22 @@
 
 .download-heading {
   color: #FFFFFF;
+  margin-bottom: 20px;
 }
 
 .download-text {
   color: #FFFFFF;
   text-align: center;
   padding: 0px 300px;
+  margin-bottom: 20px;
+}
+
+.download-button a {
+  color: #FFFFFF;
+}
+
+@media only screen and (max-width: 1024px) {
+  .download-text {
+    padding: 0px 40px;
+  }
 }
