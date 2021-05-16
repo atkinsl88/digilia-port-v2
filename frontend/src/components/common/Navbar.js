@@ -6,8 +6,10 @@ const Navbar = () => (
 
     <nav className="navbar" role="navigation" aria-label="main navigation">
       <div className="navbar-brand">
-        <div className="navbar-end">
+        <div className="navbar-start">
           <Link to="/" className="navbar-item">Home</Link>
+        </div>
+        <div className="navbar-end">
           <Link to="/development" className="navbar-item">Development</Link>
           <Link to="/design" className="navbar-item">Design</Link>
           <Link to="/curriculum-vitae" className="navbar-item">Curriculum Vitae</Link>

@@ -10,13 +10,13 @@ const Table = () => (
     <div className="table-container">
       <div className="table-headings">
         <div className="table-item-xlng">
-          <p>Project Name</p>
+          <p><b>Project Name</b></p>
         </div>
         <div className="table-item-xlng">
-          <p>Description</p>
+          <p><b>Description</b></p>
         </div>
         <div className="table-item-xlng">
-          <p>Link</p>
+          <p><b>Link</b></p>
         </div>
       </div>
       <div className="table-row">

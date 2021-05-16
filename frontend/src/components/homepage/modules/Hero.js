@@ -10,7 +10,7 @@ const Hero = () => (
           <h1>Welcome</h1>
         </div>
         <div className="hero-text">
-          <h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu tincidunt augue, id mollis nibh. Praesent nunc nisi, lobortis eget augue a, aliquam volutpat magna. Phasellus ac tristique ipsum, eget faucibus metus. Pellentesque ut lorem nec nunc porttitor dictum. Maecenas vitae purus augue.</h6>
+          <h6>Digital design and developer living in the South Coast of England. Project Manager turned Full Stack Developer currently working at Investis Digital. Here you can find information on my recent Development and Design projects.</h6>
         </div>
       </div>
       <div className="hero-container-right">

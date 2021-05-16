@@ -8,7 +8,7 @@ const Intro = () => (
         <h2>Overview</h2>
       </div>
       <div className="intro-para">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices ipsum nec purus dapibus gravida. Aliquam et cursus ligula. Pellentesque maximus turpis eu nisi accumsan, at maximus velit ultricies. Phasellus leo nunc, mollis a urna id, ultricies molestie ante. Sed erat nisi, egestas a lectus in, ultrices lacinia justo. Integer non augue nec turpis pulvinar euismod. In enim eros, fringilla a iaculis vitae, fermentum id purus. Nunc vitae ligula id dui aliquet dictum non a mi. Etiam tempus at lacus eu fermentum. Quisque pretium elementum risus eget vestibulum. Pellentesque tempus interdum eros luctus aliquam. Integer at vehicula augue, sed tristique eros.</p>
+        <p>Currently working on ReactJS based projects. Learning WordPress, Drupal and I am passionate about other technologies. In my portfolio you will find a range of projects from Vanilla JavaScript interactive games, Python (Django), Express, Node.JS and REST. Also learning how to model data safely in SQL and NoSQL. Consumed and integrated third party API’s in applications too.</p>
       </div>
     </div>
 

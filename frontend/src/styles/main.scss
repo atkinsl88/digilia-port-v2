@@ -8,6 +8,7 @@
 
 /* Import - Fonts */
 @import './modules/fonts/fonts.scss';
+@import './modules/fonts/buttons.scss';
 
 /* Import - Navigation & Footer */
 @import './modules/navigation/navigation.scss';
@@ -22,3 +23,4 @@
 @import './modules/body/body.scss';
 @import './modules/body/content.scss';
 @import './modules/body/info.scss';
+@import './modules/body/download.scss';

@@ -1,4 +1,7 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
+import image1 from '../../../../src/assets/globe.png'
+import image2 from '../../../../src/assets/github.png'
 
 const Table = () => (
   <section>
@@ -9,22 +12,22 @@ const Table = () => (
     <div className="table-container">
       <div className="table-headings">
         <div className="table-item-xlng">
-          <p>Project Name</p>
+          <p><b>Project Name</b></p>
         </div>
         <div className="table-item-lng">
-          <p>Back-End</p>
+          <p><b>Back-End</b></p>
         </div>
         <div className="table-item-lng">
-          <p>Front-End</p>
+          <p><b>Front-End</b></p>
         </div>
         <div className="table-item-lng">
-          <p>Other</p>
+          <p><b>Other</b></p>
         </div>
         <div className="table-item-sml">
-          <p>Link</p>
+          <p><b>Link</b></p>
         </div>
         <div className="table-item-sml">
-          <p>Git</p>
+          <p><b>GitHub</b></p>
         </div>
       </div>
       <div className="table-row">
@@ -41,10 +44,10 @@ const Table = () => (
           <p>REST</p>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image1} alt="logo" /></Link>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image2} alt="logo" /></Link>
         </div>
       </div>
       <div className="table-row">
@@ -61,10 +64,10 @@ const Table = () => (
           <p>REST</p>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image1} alt="logo" /></Link>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image2} alt="logo" /></Link>
         </div>
       </div>
       <div className="table-row">
@@ -81,10 +84,10 @@ const Table = () => (
           <p>REST</p>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image1} alt="logo" /></Link>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image2} alt="logo" /></Link>
         </div>
       </div>
     </div>
@@ -95,22 +98,22 @@ const Table = () => (
     <div className="table-container">
       <div className="table-headings">
         <div className="table-item-xlng">
-          <p>Project Name</p>
+          <p><b>Project Name</b></p>
         </div>
         <div className="table-item-lng">
-          <p>Back-End</p>
+          <p><b>Back-End</b></p>
         </div>
         <div className="table-item-lng">
-          <p>Front-End</p>
+          <p><b>Front-End</b></p>
         </div>
         <div className="table-item-lng">
-          <p>Other</p>
+          <p><b>Other</b></p>
         </div>
         <div className="table-item-sml">
-          <p>Link</p>
+          <p><b>Link</b></p>
         </div>
         <div className="table-item-sml">
-          <p>Git</p>
+          <p><b>GitHub</b></p>
         </div>
       </div>
       <div className="table-row">
@@ -127,10 +130,10 @@ const Table = () => (
           <p>-</p>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image1} alt="logo" /></Link>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image2} alt="logo" /></Link>
         </div>
       </div>
       <div className="table-row">
@@ -147,10 +150,10 @@ const Table = () => (
           <p>YARN, API</p>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image1} alt="logo" /></Link>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image2} alt="logo" /></Link>
         </div>
       </div>
       <div className="table-row">
@@ -167,10 +170,10 @@ const Table = () => (
           <p>MERN, NodeJS</p>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image1} alt="logo" /></Link>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image2} alt="logo" /></Link>
         </div>
       </div>
       <div className="table-row">
@@ -187,10 +190,10 @@ const Table = () => (
           <p>-</p>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image1} alt="logo" /></Link>
         </div>
         <div className="table-item-sml">
-          <p>xxx</p>
+          <Link to="xxx" target="_blank"><img src={image2} alt="logo" /></Link>
         </div>
       </div>
     </div>
