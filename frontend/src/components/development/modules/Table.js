@@ -29,6 +29,28 @@ const Table = () => (
           <p><b>GitHub</b></p>
         </div>
       </div>
+
+      <div className="table-row">
+        <div className="table-item-xlng">
+          <p>Sedia (WordPress)</p>
+        </div>
+        <div className="table-item-lng mob-hidden">
+          <p>PHP</p>
+        </div>
+        <div className="table-item-lng mob-hidden">
+          <p>HTML, CSS & JS</p>
+        </div>
+        <div className="table-item-lng mob-hidden">
+          <p>-</p>
+        </div>
+        <div className="table-item-sml">
+          <a href="https://pensacola.co.uk/" target="_blank" rel="noreferrer"><img src={image1} alt="logo" /></a>
+        </div>
+        <div className="table-item-sml">
+          <a href="https://github.com/atkinsl88/sedia-wp-theme-wp-files" target="_blank" rel="noreferrer"><img src={image2} alt="logo" /></a>
+        </div>
+      </div>
+
       <div className="table-row">
         <div className="table-item-xlng">
           <p>Portfolio v2</p>
@@ -49,6 +71,7 @@ const Table = () => (
           <a href="https://github.com/atkinsl88/digilia" target="_blank" rel="noreferrer"><img src={image2} alt="logo" /></a>
         </div>
       </div>
+
       <div className="table-row">
         <div className="table-item-xlng">
           <p>Park House Care - Redesign</p>
@@ -69,6 +92,7 @@ const Table = () => (
           <a href="https://github.com/atkinsl88/Park-House-SEI-Project-004" target="_blank" rel="noreferrer"><img src={image2} alt="logo" /></a>
         </div>
       </div>
+      
       <div className="table-row">
         <div className="table-item-xlng">
           <p>Portfolio v1</p>
